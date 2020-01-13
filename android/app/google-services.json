@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799309570018",
+    "firebase_url": "https://jobstagram-e6105.firebaseio.com",
+    "project_id": "jobstagram-e6105",
+    "storage_bucket": "jobstagram-e6105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799309570018:android:a1c68236066965a85b23bb",
+        "android_client_info": {
+          "package_name": "com.sih.jobstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799309570018-l9ssgnf3c6ci1et9arate08e96gfdhuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmR3Fm0E5gh_DWZEubszHi_ZpQpOD-Jjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799309570018-l9ssgnf3c6ci1et9arate08e96gfdhuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
