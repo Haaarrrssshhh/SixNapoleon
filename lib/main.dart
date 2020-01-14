@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:jobstagram/AppPages/SignIN.dart';
+import 'package:jobstagram/AppPages/SignIN//SignIN.dart';
 
 void main() => runApp(MyApp());
 
